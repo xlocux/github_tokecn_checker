@@ -1,10 +1,12 @@
 # github_token_checker
 Simple python script to check GitHub token validity
 
-#REQUIREMENT:
+
+## REQUIREMENT:
 
 pip install PyGithub
 
-#USAGE:
+
+## USAGE:
 
 python ghtc.py -t your_token
